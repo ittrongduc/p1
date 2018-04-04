@@ -63,7 +63,7 @@ public class HoanTatFragment extends android.support.v4.app.Fragment {
         tv_tongtien.setText(CountTotalMoney()+"");
 
         rc_giohang_hoantat=v.findViewById(R.id.rc_giohang_fragment_hoan_tat);
-        btn_hoantat=v.findViewById(R.id.btn_hoantat);
+        btn_hoantat=v.findViewById(R.id.btn_tiep_tuc_thanh_toan);
     }
     public void ClickEvent(){
         //btn_tiep_tuc_thong_tin CLick
